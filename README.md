@@ -1,7 +1,5 @@
-# jami
+# J.A.M.I.
 Joel's Artificial Music Intelligence for reading and writing music using MIDI files
-
-ARTIFICIAL INTELLIGENCE:
 
 	GOAL:
 	Create a Python program that can create new music based on patterns found in existing music.
