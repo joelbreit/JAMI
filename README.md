@@ -11,3 +11,6 @@ Joel's Artificial Music Intelligence for reading and writing music using MIDI fi
 	IMPORTANT:
 	Music files to be scanned sor the database should be placed in the ai/tests/m/ directory.
 	
+# Setup
+
+`source env_for_jami/bin/activate`
